@@ -1,0 +1,39 @@
+_repo: Historical-Epochs-of-the-French-Revolution--13-And-A-List-Of-The-Members-Of-The-National-Conv__16962
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Randolph, Francis
+    birthdate: 1752
+    deathdate: 1831
+    gutenberg_agent_id: '7056'
+    url: http://www.gutenberg.org/2009/agents/7056
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goudemetz, Henry
+    aliases:
+    - Goudemetz, H. (Henry)
+    - Goudemetz, Henri
+    birthdate: 1749
+    deathdate: 1825
+    gutenberg_agent_id: '7055'
+    url: http://www.gutenberg.org/2009/agents/7055
+description: ''
+gutenberg_issued: '2005-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louis XVI, King of France, 1754-1793'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+title: "Historical Epochs of the French Revolution\r\nWith The Judgment And Execution\
+  \ Of Louis XVI., King Of France\r\nAnd A List Of The Members Of The National Convention,\
+  \ Who Voted For And Against His Death"
+url: http://www.gutenberg.org/ebooks/16962
